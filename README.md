@@ -92,7 +92,7 @@ Jane Smith  | MCA    | 2025 | Beta
 ##🚀 How to Run Locally
 ###1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Naman-27072004/Studentidmaker.git
 cd id-card-generator
 ```
 ###2️⃣ Install Dependencies
@@ -135,3 +135,4 @@ This project is licensed under the MIT License.
 - Naman Gupta
 - MCA @ JIMS Rohini
 - Full-Stack Developer | AI & ML Enthusiast
+
